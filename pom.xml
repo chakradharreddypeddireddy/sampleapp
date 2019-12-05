@@ -27,7 +27,7 @@
   </snapshotRepository> 
   </distributionManagement>
   
-  <!--demo on webhooks-->
+  <!--demo on webhooks!-->
   
 <dependencies>
     <dependency>
